@@ -1,0 +1,2 @@
+# CC-FAQ
+outreachy project
